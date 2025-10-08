@@ -10,7 +10,16 @@ public class gitDemo {
 		
 		
 		System.out.println("Develop branch Stuff");
+		
+		System.out.println();
+		
+		pc();
 
+	}
+	
+	public static void pc() {
+		System.out.println("Develop PC Code");
+		System.out.println("---------------");
 	}
 
 }
